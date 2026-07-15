@@ -22,9 +22,10 @@ nav {
 }
 
 .logo {
-  height: 90px;
+  height: 45px;          /* bigger logo */
   width: auto;
   vertical-align: middle;
+  filter: drop-shadow(0 0 3px white); /* subtle glow for visibility */
 }
 
 nav h1 {
