@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  background: rgba(0,64,128,0.9);
+  background: #004080;   /* solid deep blue */
   color: white;
   position: sticky;
   top: 0;
