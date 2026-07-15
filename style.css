@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  background: rgba(0,64,128,0.9); /* slight transparency for lighter feel */
+  background: rgba(0,64,128,0.9);
   color: white;
   position: sticky;
   top: 0;
@@ -22,7 +22,7 @@ nav {
 }
 
 .logo {
-  height: 50px;        /* smaller logo */
+  height: 40px;        /* smaller logo */
   width: auto;
   vertical-align: middle;
 }
