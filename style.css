@@ -23,7 +23,7 @@ nav {
 
 .logo {
   height: 50px;          /* bigger logo */
-  width: auto;
+  width: 50;
   vertical-align: middle;
   filter: drop-shadow(0 0 3px white); /* subtle glow for visibility */
 }
